@@ -1,7 +1,7 @@
 import React from "react";
 import Footer from "./components/Footer"
 
-function App() {
+export default function App() {
   return (
     <div>
       <h1>Hello, World!</h1>
@@ -9,5 +9,3 @@ function App() {
     </div>
   );
 }
-
-export default App;
