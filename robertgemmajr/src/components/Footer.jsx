@@ -1,5 +1,5 @@
 import React from "react";
-import styled from "styled-components"
+import styled from "styled-components";
 import { FaLinkedin, FaGithub, FaTwitter, FaInstagram } from "react-icons/fa";
 
 const Icons = styled.div`
