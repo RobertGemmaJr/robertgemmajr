@@ -9,9 +9,9 @@ const Icons = styled.div`
   justify-content: space-between;
 
   a {
-    color: pink;
+    color: ${props => props.theme.primary};
     :hover {
-      color: black;
+      color: ${props => props.theme.secondary};
     }
   }
 `;
@@ -19,6 +19,8 @@ const Icons = styled.div`
 const Copyright = styled.p`
   text-align: center;
   font-size: 1.2em;
+  background-color: ${props => props.theme.background};
+  color: ${props => props.theme.primary}
 `;
 
 export default function Footer() {
