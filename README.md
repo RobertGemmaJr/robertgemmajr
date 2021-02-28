@@ -1,4 +1,5 @@
 **[Download Resume](./Gemma_Robert_Resume.pdf)**
+**[Download Resume (two pages)](./Gemma_Robert_Resume.pdf)**
 
 <!--
 **RobertGemmaJr/robertgemmajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
