@@ -1,4 +1,4 @@
-**[Download Resume](Gemma_Robert_Resume.pdf)**
+**[Download Resume](<Gemma_Robert_Resume (one page).pdf>)**
 
 **[Download Resume (two pages)](<Gemma_Robert_Resume (two pages).pdf>)**
 
