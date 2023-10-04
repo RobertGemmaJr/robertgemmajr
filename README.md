@@ -1,6 +1,4 @@
-**[Download Resume](<Gemma_Robert_Resume (one page).pdf>)**
-
-**[Download Resume (two pages)](<Gemma_Robert_Resume (two pages).pdf>)**
+Research Software Engineer at Brown University. 
 
 <!--
 **RobertGemmaJr/robertgemmajr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
